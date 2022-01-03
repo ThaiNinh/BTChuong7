@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2366a72d-63c2-416f-9beb-5252926d84de": {
+      "ProjectGuid": "2366a72d-63c2-416f-9beb-5252926d84de",
+      "DisplayName": "BTChuong7",
+      "ColorIndex": 0
+    },
+    "aaa3be03-ad1b-45b9-a0e7-d0b0d7da91ae": {
+      "ProjectGuid": "aaa3be03-ad1b-45b9-a0e7-d0b0d7da91ae",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
