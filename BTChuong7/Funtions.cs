@@ -276,6 +276,6 @@ namespace BTChuong7
             mTemp = mTemp.Substring(0, 1).ToUpper() + mTemp.Substring(1) + " đồng";
             return mTemp;
         }
-
+        //hello
     }
 }
